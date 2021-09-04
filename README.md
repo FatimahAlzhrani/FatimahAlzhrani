@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **Fatimah Alzhrani**
+- 👀 I’m interested in  Business and Technology Analysis
+- 🌱 I’m currently learning Programing (Python)
+- 📫 How to reach me [my linkedin] (www.linkedin.com/in/fatimah-alzahrani)
